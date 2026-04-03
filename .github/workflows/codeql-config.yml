@@ -8,5 +8,3 @@ paths-ignore:
   - '**/*test*'
   - 'vendor/**'
 
-queries:
-  - uses: security-extended
