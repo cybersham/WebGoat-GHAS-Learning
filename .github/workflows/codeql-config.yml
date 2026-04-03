@@ -1,0 +1,12 @@
+name: "CodeQL Config"
+
+paths-ignore:
+  - '**/*.md'
+  - '**/*.txt'
+  - 'docs/**'
+  - 'frontend/dist/**'
+  - '**/*test*'
+  - 'vendor/**'
+
+queries:
+  - uses: security-extended
