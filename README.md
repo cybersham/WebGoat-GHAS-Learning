@@ -1,4 +1,5 @@
 # WebGoat: A deliberately insecure Web Application Learning GHAS and testing codeql path ignore
+#### added the codeql-config file to test the scan if it ignores it. 
 
 [![Build](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml)
 [![java-jdk](https://img.shields.io/badge/java%20jdk-25-green.svg)](https://jdk.java.net/)
